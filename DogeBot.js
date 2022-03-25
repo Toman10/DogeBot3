@@ -281,8 +281,8 @@ Iv: 'Link invalid !!'
 only: {
 nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
 group: 'This feature is only for group!!',
-owner: 'This feature is only for owner!!',
-admin: 'This feature is onlu for admin!!',
+owner: 'This feature is only for *Draken*!!',
+admin: 'This feature is only for *admin*!!',
 Badmin: 'Please give adminship to the bot first!!'
 }
 }
